@@ -7,9 +7,15 @@
 
     <fragment
         android:id="@+id/navigation_home"
+<<<<<<< Updated upstream
         android:name="com.example.madcamp_week1.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
+=======
+        android:name="com.example.madcamp_week1.ui.gallery.HomeFragment"
+        android:label="@string/title_contact"
+        tools:layout="@layout/fragment_contact" />
+>>>>>>> Stashed changes
 
     <fragment
         android:id="@+id/navigation_dashboard"
