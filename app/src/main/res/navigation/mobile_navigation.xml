@@ -6,13 +6,13 @@
     app:startDestination="@+id/navigation_contact">
 
     <fragment
-        android:id="@+id/navigation_home"
+        android:id="@+id/navigation_contact"
         android:name="com.example.madcamp_week1.ui.contact.ContactFragment"
         android:label="@string/title_contact"
         tools:layout="@layout/fragment_contact" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_gallery"
         android:name="com.example.madcamp_week1.ui.gallery.GalleryFragment"
         android:label="@string/title_gallery"
         tools:layout="@layout/fragment_gallery" />
