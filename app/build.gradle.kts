@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.example.madcamp_week1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.madcamp_week1"
-        minSdk = 30
+        minSdk = 26
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
